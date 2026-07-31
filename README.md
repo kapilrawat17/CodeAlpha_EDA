@@ -1,14 +1,13 @@
-# 📊 Exploratory Data Analysis (EDA) - Global Superstore 2016
+Exploratory Data Analysis (EDA) - Global Superstore 2016
 
-## 📌 Project Overview
+ Project Overview
 
-This project was completed as part of the **CodeAlpha Data Analytics Internship**.
+This project was completed as part of the CodeAlpha Data Analytics Internship.
 
-The objective of this project is to perform **Exploratory Data Analysis (EDA)** on the **Global Superstore 2016** dataset using **Python**. The analysis focuses on understanding sales performance, profitability, customer behavior, and regional trends through data visualization and statistical exploration.
+The objective of this project is to perform Exploratory Data Analysis (EDA) on the **Global Superstore 2016** dataset using Python. The analysis focuses on understanding sales performance, profitability, customer behavior, and regional trends through data visualization and statistical exploration.
 
----
 
-## 🎯 Objectives
+Objectives
 
 - Explore the Global Superstore dataset.
 - Perform data cleaning and preprocessing.
@@ -20,9 +19,8 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 - Study the relationship between discount and profit.
 - Generate business insights through visualizations.
 
----
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - Python 3
 - Pandas
@@ -31,11 +29,10 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 - OpenPyXL
 - Visual Studio Code
 
----
 
-## 📂 Dataset
+Dataset
 
-**Dataset Name:** Global Superstore 2016
+Dataset Name: Global Superstore 2016
 
 The dataset contains information related to:
 
@@ -49,20 +46,15 @@ The dataset contains information related to:
 - Markets
 - Regions
 
----
 
-## 📁 Project Structure
+Project Structure
 
-```
 CodeAlpha_EDA/
 │
 ├── global_superstore_2016.xlsx
 ├── EDA.py
 ├── README.md
-├── EDA_Report.pdf
-├── requirements.txt
-├── .gitignore
-│
+├── EDA_Analysis.pdf
 ├── sales_by_category.png
 ├── profit_by_category.png
 ├── sales_by_region.png
@@ -70,10 +62,7 @@ CodeAlpha_EDA/
 ├── profit_by_subcategory.png
 └── discount_vs_profit.png
 ```
-
----
-
-## 📊 Exploratory Data Analysis Performed
+ Exploratory Data Analysis Performed
 
 The following analyses were completed:
 
@@ -88,9 +77,7 @@ The following analyses were completed:
 - Profit by Sub-Category
 - Discount vs Profit Analysis
 
----
-
-## 📈 Visualizations
+ Visualizations
 
 The project includes the following visualizations:
 
@@ -101,9 +88,7 @@ The project includes the following visualizations:
 - 📊 Profit by Sub-Category (Horizontal Bar Chart)
 - 📉 Discount vs Profit (Scatter Plot)
 
----
-
-## 🔍 Key Insights
+Key Insights
 
 - Product categories contribute differently to total sales and profit.
 - Regional sales performance varies significantly.
@@ -112,37 +97,20 @@ The project includes the following visualizations:
 - Higher discounts are often associated with reduced profitability.
 - Data visualization helps identify trends and supports business decision-making.
 
----
+ How to Run the Project
 
-## ▶️ How to Run the Project
+1. Clone the Repository
+https://github.com/kapilrawat17/CodeAlpha_EDA
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/CodeAlpha_EDA.git
-```
-
-### 2. Navigate to the Project Folder
-
-```bash
+3. Navigate to the Project Folder
 cd CodeAlpha_EDA
-```
 
-### 3. Install Required Libraries
+3. Install Required Libraries
 
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Analysis
-
-```bash
+4. Run the Analysis
 python EDA.py
-```
 
----
-
-## 📄 Output Files
+Output Files
 
 Running the script generates the following chart images automatically:
 
@@ -153,9 +121,7 @@ Running the script generates the following chart images automatically:
 - profit_by_subcategory.png
 - discount_vs_profit.png
 
----
-
-## 📚 Skills Demonstrated
+Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -166,27 +132,20 @@ Running the script generates the following chart images automatically:
 - Matplotlib
 - Seaborn
 
----
-
-## 🚀 Future Improvements
+Future Improvements
 
 - Build an interactive dashboard using Power BI or Tableau.
 - Add interactive visualizations with Plotly.
 - Perform predictive analysis using machine learning models.
 - Automate report generation.
 
----
 
-## 👨‍💻 Author
+ Author
 
-**Kapil Rawat**
+Kapil Rawat
 
 CodeAlpha Data Analytics Internship
 
-GitHub: https://github.com/your-username
+https://github.com/kapilrawat17/CodeAlpha_EDA
 
----
 
-## 📜 License
-
-This project is developed for educational purposes as part of the **CodeAlpha Data Analytics Internship**.
